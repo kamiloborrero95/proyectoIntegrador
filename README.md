@@ -1,6 +1,6 @@
 # proyectoIntegrador
 
-1. Entender el problema y los requerimientos
+# 1. Entender el problema y los requerimientos
 Objetivo principal: Diseñar e implementar un sistema de gestión para una fintech con funcionalidades de:
 
 Gestión de clientes.
@@ -9,16 +9,17 @@ Movimientos financieros (depósitos y retiros).
 Consulta de saldo.
 Características clave:
 
-Implementación en HTML, JavaScript (u otro lenguaje si lo prefieres).
-Uso del paradigma de Programación Orientada a Objetos (POO).
-Interfaz de usuario web amigable.
-Documentación en UML.
-Publicación del código en GitHub.
-Despliegue del sistema en Internet.
-2. Definir las etapas del proyecto
+- Implementación en HTML, JavaScript (u otro lenguaje si lo prefieres).
+- Uso del paradigma de Programación Orientada a Objetos (POO).
+- Interfaz de usuario web amigable.
+- Documentación en UML.
+- Publicación del código en GitHub.
+- Despliegue del sistema en Internet.
+
+# 2. Definir las etapas del proyecto
 Según el enunciado y las especificaciones, sugiero dividir el proyecto en las siguientes etapas:
 
-Etapa 1: Diseño y análisis
+## tapa 1: Diseño y análisis
 Tareas principales:
 Crear un diagrama UML que defina:
 Clases para clientes, cuentas, y movimientos.
@@ -31,7 +32,8 @@ Backend: Validaciones y manejo de datos.
 Frontend: Interfaz de usuario.
 Entrega:
 Diagramas UML y plan de desarrollo.
-Etapa 2: Implementación del backend
+
+## Etapa 2: Implementación del backend
 Tareas principales:
 
 Crear las clases principales:
@@ -50,7 +52,8 @@ Documentar el código.
 Entrega:
 
 Backend funcional con pruebas básicas (depósitos, retiros, etc.).
-Etapa 3: Diseño de la interfaz de usuario (frontend)
+
+## Etapa 3: Diseño de la interfaz de usuario (frontend)
 Tareas principales:
 
 Crear una interfaz amigable para:
@@ -63,7 +66,8 @@ Conectar el frontend con el backend (validaciones, AJAX o Fetch API para solicit
 Entrega:
 
 Interfaz web funcional.
-Etapa 4: Pruebas e integración
+
+## Etapa 4: Pruebas e integración
 Tareas principales:
 
 Realizar pruebas unitarias para cada módulo.
@@ -76,7 +80,8 @@ Resolver errores y optimizar el código.
 Entrega:
 
 Sistema funcional y probado.
-Etapa 5: Despliegue y documentación
+
+## Etapa 5: Despliegue y documentación
 Tareas principales:
 
 Publicar el proyecto en GitHub.
@@ -87,7 +92,8 @@ Explicación técnica del diseño y arquitectura.
 Entrega:
 
 Sistema publicado y documentado.
-3. Estrategia de aprendizaje
+
+# 3. Estrategia de aprendizaje
 Conocimientos necesarios:
 
 Programación Orientada a Objetos (POO).
